@@ -197,7 +197,7 @@ img {
 		
 		.column {
   		float: left;
-  		width: 70%;
+  		width: 50%;
 		}	
 		
 	/* Desktop Viewport: Style rules for nav area */
@@ -215,7 +215,7 @@ img {
 		}
 		
 		#maintenance, #design{
-			width: 40%;
+			width: 50%;
 			float: left;
 			margin: 0 2%;
 		}
